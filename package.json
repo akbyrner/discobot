@@ -1,0 +1,23 @@
+{
+  "name": "discobot",
+  "version": "1.0.0",
+  "description": "Testing implementations of a discord bot",
+  "homepage": "https://github.com/akbyrner/discobot#readme",
+  "bugs": {
+    "url": "https://github.com/akbyrner/discobot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akbyrner/discobot.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
