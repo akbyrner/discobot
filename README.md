@@ -1,5 +1,5 @@
 # discobot
-Testing implementations of a discord bot
+Testing implementations of a discord bot. Set up config.json before running.
 
 # slash-commands
 https://discordjs.guide/legacy/app-creation/creating-commands
